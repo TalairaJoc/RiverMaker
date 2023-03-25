@@ -10,4 +10,4 @@ You can change the material directly in the Renderer component on the object Riv
 
 On play all will be deleted instead of the RIver to try to optimize a little bit so the River is in Global transform instead of Local, hence optimizing a little bit if you have complex Shader calculations.
 
-Feel free to 
+Feel free to contact me at TalairaJoc@gmail.com if you have questions or recomandations to enhace this system :) !
